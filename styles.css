@@ -68,22 +68,22 @@ header p {
 
 .card1 .line {
   background-color: var(--Cyan);
-  height: 3px;
+  height: 4px;
 }
 
 .card2 .line {
   background-color: var(--Red);
-  height: 3px;
+  height: 4px;
 }
 
 .card3 .line {
   background-color: var(--Orange);
-  height: 3px;
+  height: 4px;
 }
 
 .card4 .line {
   background-color: var(--Blue);
-  height: 3px;
+  height: 4px;
 }
 
 .content {
@@ -107,7 +107,7 @@ header p {
 
 /* Footer */
 .attribution {
-  font-size: 11px;
+  font-size: 15px;
   text-align: center;
 }
 
@@ -159,7 +159,7 @@ header p {
   }
 }
 
-/* 
+
 @keyframes up {
   0% {
     transform: translateY(500px);
@@ -178,4 +178,4 @@ header p {
   100% {
     transform: translateX(0px);
   }
-} */
+}
